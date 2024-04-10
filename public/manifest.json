@@ -1,0 +1,41 @@
+{
+  "background_color": "#2196f3",
+  "display": "standalone",
+  "form_factor": "wide",
+  "icons": [
+    {
+      "src": "/icon192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshot1.png",
+      "sizes": "800x600",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "/screenshot2.png",
+      "sizes": "800x600",
+      "type": "image/png"
+    }
+  ],
+  "name": "ChatCord App",
+  "scope": "/",
+  "short_name": "ChatCord",
+  "start_url": "/",
+  "theme_color": "#2196f3"
+}
