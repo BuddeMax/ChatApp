@@ -1,4 +1,5 @@
 {
+  "orientation": "landscape",
   "background_color": "#2196f3",
   "display": "standalone",
   "form_factor": "wide",
